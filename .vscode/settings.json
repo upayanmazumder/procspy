@@ -15,5 +15,5 @@
 	"go.vetOnSave": "package",
 	"go.buildOnSave": "package",
 	"go.testOnSave": true,
-	"cSpell.words": ["gopsutil", "pgdata", "procspy"]
+	"cSpell.words": ["gopsutil", "pgdata", "procspy", "promhttp", "sslmode"]
 }
